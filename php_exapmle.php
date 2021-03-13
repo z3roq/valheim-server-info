@@ -8,7 +8,6 @@ else
 $status = "Offline";
 
 echo "Server status: ".$status."<br>";
-
 echo "Players: ".$data[1]."/10";
 
 ?>
