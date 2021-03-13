@@ -31,4 +31,4 @@ f2.write("|")
 f2.write(str(players_online))
 f2.write("|")
 f2.write(str(today.strftime("%H:%M:%S")))
-f2.close
+f2.close()
